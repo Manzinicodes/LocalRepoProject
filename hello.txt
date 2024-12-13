@@ -1,3 +1,6 @@
 Hello, Git and GitHub!
-
+cd path/to/LocalRepoProject
+git init
+git add hello.txt
+git commit -m "Add hello.txt with greeting"
 
